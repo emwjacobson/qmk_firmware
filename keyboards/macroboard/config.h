@@ -3,6 +3,8 @@
 
 #pragma once
 
+#include "config_common.h"
+
 /* Encoder Configuration */
 
 #define ENCODERS_PAD_A { B14 }
